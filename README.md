@@ -1,2 +1,2 @@
 # kratex_progressbar
-Using Export : exports.jsx_progressBar:startProgressBar(text, timeouts) Using Events : TriggerEvent('jsx_progressBar:client:startProgressBar', text, timeouts)
+Using Export : exports.kratex_progressbar:pokreniPorgressBar(text, timeouts) Using Events : TriggerEvent('kratex_progressbar:client:pokreniPorgressBar', text, timeouts)
